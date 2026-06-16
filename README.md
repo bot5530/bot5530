@@ -37,7 +37,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bot5530/bot5530/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bot5530/bot5530/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bot5530/bot5530/output/github-snake.svg" width="100%" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bot5530/bot5530/output/github-snake.svg&hide_border=false&area=true&area_color=dbeafe&radius=8" width="100%" />
 </picture>
 
 </div>
